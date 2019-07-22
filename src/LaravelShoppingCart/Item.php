@@ -6,7 +6,7 @@
  * (c) 2016 overtrue <i@overtrue.me>
  */
 
-namespace Overtrue\LaravelShoppingCart;
+namespace Miyaye\LaravelShoppingCart;
 
 use Illuminate\Support\Collection;
 

@@ -29,10 +29,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "miyaye\\LaravelShoppingCart\\ServiceProvider"
+                "Miyaye\\LaravelShoppingCart\\ServiceProvider"
             ],
             "aliases": {
-                "ShoppingCart": "miyaye\\LaravelShoppingCart\\Facade"
+                "ShoppingCart": "Miyaye\\LaravelShoppingCart\\Facade"
             }
         }
     }

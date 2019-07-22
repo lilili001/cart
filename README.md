@@ -1,6 +1,6 @@
 # Laravel Shopping Cart
 
-Shopping cart for Laravel Application 111.
+Shopping cart for Laravel Application 222.
 
 
 [![Build Status](https://travis-ci.org/overtrue/laravel-shopping-cart.svg?branch=master)](https://travis-ci.org/overtrue/laravel-shopping-cart)
